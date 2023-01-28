@@ -8,4 +8,4 @@ My name is Anri Kawahara and I am a Full Stack Software Engineer. After spending
 
 
 Let's connect!
-<img height="30px"  src="/linkedin.svg" alt="linkedin" >(https://www.linkedin.com/in/anri-kawahara-63460358/)
+<a href="https://www.linkedin.com/in/anri-kawahara-63460358/"><img height="30px"  src="/linkedin.svg" alt="linkedin" ></a>
