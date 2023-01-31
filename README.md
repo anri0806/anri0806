@@ -7,8 +7,8 @@ My name is Anri Kawahara and I am a Full Stack Software Engineer. After spending
 <img height="20px" src="/html5.svg" alt="html" >    <img height="20px"  src="/css3.svg" alt="css" >    <img height="20px"  src="/js.svg" alt="html" > <img height="20px"  src="/react.svg" alt="react" >    <img height="20px"  src="/bootstrap.svg" alt="bootstrap" >    <img height="20px"  src="/ruby.svg" alt="ruby" >    <img height="20px"  src="/rubyonrails.svg" alt="ruby on rails" >    <img height="20px"  src="/firebase.svg" alt="firebase" >    <img height="20px"  src="/postgresql.svg" alt="postgresql" >    <img height="20px"  src="/sqlite.svg" alt="sqlite" > 
 
 
-## Connect with me
+## Connect with me 📱
 
-<a href="https://www.linkedin.com/in/anri-kawahara-63460358/"><img height="20px"  src="/linkedin.svg" alt="linkedin" ></a>     <a href="https://anrikawahara.com/"><img height="24px"  src="/portfolio.png" alt="portfolio" ></a> 
+<a href="https://www.linkedin.com/in/anri-kawahara-63460358/"><img height="20px"  src="/linkedin.svg" alt="linkedin" ></a> <a href="https://anrikawahara.com/"><img height="23px"  src="/portfolio.png" alt="portfolio" ></a> 
 
 
